@@ -15,8 +15,14 @@ The increasing prevalence of heart diseases, a prominent cause of premature mort
 * Create Machine Learning-based predictive models that can show likelihood of an individual developing CHD in 10 years time for use by phyisicians in targeting individuals for prioritized prevetantive interventions
 
 # Recommendations
-The most important features for predicting heart disease were age, systolic blood pressure, prevalent hypertension, and diastolic blood pressure
+1. Identification and Prioritization of High-Risk Patients:
+Recognize the pivotal role of age, systolic blood pressure, prevalent hypertension, and diastolic blood pressure in predicting heart disease.
 
-Healthcare workers should prioritize diagnostic evaluation for high-risk patients, with the 40-59 age group being most affected, and those below 30 experiencing the least impact. Overweight individuals exhibit a higher likelihood of heart disease compared to those with normal weight, underweight, or obesity.
+2. Age-Specific Focus:
+Prioritize the 40-59 age group for targeted interventions, as they are most susceptible to heart disease.
 
-XGB boost model proved to be obtaining the best accuracy score upon further tuning by showing a balance in the training and validation ccuracy.
+3. Weight Management and Heart Health:
+Provide tailored guidance for individuals falling within the overweight category, highlighting the higher likelihood of heart disease compared to those with normal weight, underweight, or obese individuals
+
+4. Comprehensive Risk Assessment:
+Encourage healthcare professionals to conduct a thorough evaluation of patients, taking into account multiple risk factors such as age, blood pressure, and weight status.
