@@ -1,4 +1,4 @@
-# Heart_Disease-
+# Predicting Coronary Heart Disease (CHD)
 
 # overview
 
