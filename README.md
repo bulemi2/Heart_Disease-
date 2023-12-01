@@ -14,6 +14,18 @@ The increasing prevalence of heart diseases, a prominent cause of premature mort
 
 * Create Machine Learning-based predictive models that can show likelihood of an individual developing CHD in 10 years time for use by phyisicians in targeting individuals for prioritized prevetantive interventions
 
+# Data Understanding
+
+The dataset was sourced from Kaggle datasets.
+It contains  15 features used for predicting the 10-year risk of CHD (binary: "1" - Yes, "0" - No).
+The main columns used for prediction are:
+
+ 	Age
+	Life style factor
+	medical indicators
+	BMI
+
+
 # Recommendations
 1. Identification and Prioritization of High-Risk Patients:
 Recognize the pivotal role of age, systolic blood pressure, prevalent hypertension, and diastolic blood pressure in predicting heart disease.
