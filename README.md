@@ -20,6 +20,7 @@ The dataset was sourced from Kaggle datasets.
 It contains  15 features used for predicting the 10-year risk of CHD (binary: "1" - Yes, "0" - No).
 The main columns used for prediction are:
 
+
  	Age
 	Life style factor
 	medical indicators
